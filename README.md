@@ -13,7 +13,7 @@ The tools used to find the lane lines in the images and the videos were:
  - OpenCV
 
 ## Script
-Access the [Jupyter Notebook](https://github.com/kmilo7204/Finding_Lane_Lines/blob/master/Finding_Lane_Lines.ipynb) of the project. In it, the approach is explained and the result for each step is shown in an image.
+Access the [Jupyter Notebook](https://github.com/kmilo7204/Finding_Lane_Lines/blob/master/Finding_Lane_Lines.ipynb) of the project. In it, the approach is explained in depth and the result for each step can be seen.
 
 ## Approach 
 The approach used in this project consists in seven steps:
@@ -27,3 +27,6 @@ The approach used in this project consists in seven steps:
 7. Combine the input RGB image and the ROI image which contains the lines to display the detections. See cell `10`
 
 Finally, in order to process each frame of the video and obtain the final output, a function that blends all of steps explained above is created. See cell `11`
+
+## Video
+Find the Final video and the results of this project [here](https://www.youtube.com/watch?v=Cugi2mMzhxw).
