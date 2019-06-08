@@ -1,6 +1,8 @@
 # Finding Lane Lines
 Considered as the starting point for a Self-Driving Engineer due to its low complexity, this project will show an approach to find the lane boundaries on a video taken from the roof of a vehicle in the highway.
 
+This repository explains the approach implemented for the project number 1 of the Udacity Self-Driving Car Engineer Nanodegree.
+
 In this repository an algorithm based on pure computer vision techniques is shown and explained in order to provide a great guide for the reader.
 
 <p align="center">
