@@ -29,4 +29,4 @@ The approach used in this project consists in seven steps:
 Finally, in order to process each frame of the video and obtain the final output, a function that blends all of steps explained above is created. See cell `11`
 
 ## Video
-Find the Final video and the results of this project [here](https://www.youtube.com/watch?v=Cugi2mMzhxw).
+Find a video with the final results of this project in this [link](https://www.youtube.com/watch?v=Cugi2mMzhxw).
